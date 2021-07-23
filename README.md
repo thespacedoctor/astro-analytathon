@@ -2,6 +2,8 @@
 
 The time-series data in this repo are of individual sources detected in the night-sky by telescopes located in Hawaii. These specific sources were selected due to their time-varying nature, i.e. their brightness changes substantially over a period of time. The particularities of these "light curves" may provide valuable information to the nature of the astronomical event that caused them, and the statistical properties of the group as a whole may also give further insights.
 
+View the [introduction slide-deck here](https://github.com/thespacedoctor/astro-analytathon/blob/master/slide-deck.pdf). 
+
 ## Downloading the Data
 
 If you're familiar with Git and Github you can clone this repository to your local machine, otherwise click the green 'Code' button above and select 'Download Zip'.
